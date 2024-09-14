@@ -17,4 +17,4 @@ app.use('/api/my/user', myUserRoute);
 
 app.listen(3000, () => {
     console.log("server Started")
-})
+});
